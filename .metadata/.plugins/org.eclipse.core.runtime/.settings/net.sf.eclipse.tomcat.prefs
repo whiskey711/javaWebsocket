@@ -1,0 +1,6 @@
+computeSourcePath=true
+contextsDir=/Users/linfengx/Study/tomcat/apache-tomcat-9.0.4/conf/Catalina/localhost
+eclipse.preferences.version=1
+tomcatConfigFile=/Users/linfengx/Study/tomcat/apache-tomcat-9.0.4/conf/server.xml
+tomcatDir=/Users/linfengx/Study/tomcat/apache-tomcat-9.0.4
+tomcatVersion=tomcatV9

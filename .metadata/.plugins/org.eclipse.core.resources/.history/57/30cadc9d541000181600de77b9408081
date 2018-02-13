@@ -1,0 +1,5 @@
+package server.ws;
+
+public class WsServer {
+
+}
